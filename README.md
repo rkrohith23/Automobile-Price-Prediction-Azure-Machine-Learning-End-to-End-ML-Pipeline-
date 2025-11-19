@@ -101,3 +101,12 @@ After deployment, endpoint information includes:
 ✔ Primary/Secondary keys
 ✔ Swagger definition (API contract)
 ✔ Deployment logs
+
+🛠 Technologies & Tools Used
+Area	Tools
+Cloud	Microsoft Azure
+ML Platform	Azure Machine Learning Studio
+Pipelines	Azure ML Designer
+Deployment	AKS (Azure Kubernetes Service)
+Language	Python (for testing endpoint)
+API	REST + Swagger
