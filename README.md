@@ -96,6 +96,7 @@ Compute Used
 -Waited for the AKS deployment to finish provisioning
 
 -Verified deployment status in the endpoint Details tab
+-Successfully tested the deployed endpoint using a JSON request and confirmed that the model returned a valid prediction (e.g., "Scored Labels"(Pridicted price): 8296.39)
 
 🛠 Technologies & Tools Used
 Area	-Tools / Services Used
